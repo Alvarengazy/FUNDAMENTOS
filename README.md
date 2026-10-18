@@ -7,7 +7,7 @@
 **A personal, evolving library of Java fundamentals — written by hand, tested in practice, and documented as I learn.**
 
 [![Language](https://img.shields.io/badge/language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Status](https://img.shields.io/badge/status-in%20progress-8A2BE2?style=for-the-badge)](#-learning-roadmap--roteiro-de-estudos)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 [![Documentation](https://img.shields.io/badge/docs-English%20%7C%20Português-2F80ED?style=for-the-badge)](#-choose-your-language--escolha-seu-idioma)
 
 <br>
